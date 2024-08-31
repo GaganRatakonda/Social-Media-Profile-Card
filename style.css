@@ -62,6 +62,7 @@ body {
     margin-bottom:10px;
     width:100%;
     font-weight:600;
+    cursor:pointer;
   }
   .profiles button:hover{
     background:hsl(75, 94%, 57%);
