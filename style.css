@@ -40,11 +40,11 @@ body {
   .heading p{
    font-weight:600;
     margin-top:10px;
+    color:hsl(75, 94%, 57%);
      font-size:14px;
   }
   .caption p{
     text-align:center;
-    color:hsl(75, 94%, 57%);
     font-weight:400;
      font-size:14px;
   }
